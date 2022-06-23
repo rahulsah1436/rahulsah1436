@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsah1436&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsah1436" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsah1436" alt="rahulsah1436" /></a> </p>
-<!-- 🔭 I’m currently working on [Bone Suppliments Market Segmentation](https://github.com/rahulsah1436/Bone-Suppliments-Market-Segmentation) -->
 
-- 🌱 I’m currently learning **TensorFlow , Keras**
+🔭 I’m currently working as Intern at **SAMSUNG R&D INSTITUTE Bangalore**
+
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Anything I am ready to help.**
 
