@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsah1436" alt="rahulsah1436" /></a> </p>
 
-🔭 I’m currently working as Intern at **SAMSUNG R&D INSTITUTE Bangalore**
-
-- 🌱 I’m currently learning **Deep Learning**
+🔭 I’m currently working as Senior Software Engineer at **SAMSUNG R&D INSTITUTE Bangalore**
 
 - 💬 Ask me about **Anything I am ready to help.**
 
